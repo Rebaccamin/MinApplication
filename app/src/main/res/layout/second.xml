@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical">
+<TextView
+    android:id="@+id/text2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Why not?"
+    android:gravity="center"
+    android:textColor="#10ff22"
+    android:textSize="33dp"/>
+
+    <Button
+        android:id="@+id/button_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="嘤嘤嘤"
+        android:layout_below="@+id/text2"/>
+</LinearLayout>

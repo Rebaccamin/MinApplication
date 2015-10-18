@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Min Application</string>
+
+    <string name="android">Do you want to start Android?</string>
+    <string name="action_settings">Settings</string>
+    <string name="target">Here write your target about android</string>
+</resources>
